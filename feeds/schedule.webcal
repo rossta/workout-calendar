@@ -3,270 +3,286 @@ VERSION:2.0
 PRODID:-//CoachZed//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:June-July 2026 Compound Strength & Swing Speed Builder
+X-WR-CALNAME:Consistency\, Mobility\, Kettlebells & Swing Speed 5-Week Plan
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-UID:13400cbed43f-01@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-01@coach_zed
+DTSTAMP:20260617T121618Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Kettlebell Doubles 20-30 Min EMOM
+DESCRIPTION:Focus on your double KB EMOM\, aiming for 8 reps/set. Add The Stack: Foundation session if energy allows.\nCatalog path: kettlebells/kettlebell-doubles-30-min-emom.md\nDomain: kettlebells\nSession duration: 20-30 min
+END:VEVENT
+BEGIN:VEVENT
+UID:2ba9b65fa69f-02@coach_zed
+DTSTAMP:20260617T121618Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:Push Up EMOM 10 Min
+DESCRIPTION:Push for 5x10 push-ups per minute. Add Daily Mobility Routine before or after.\nCatalog path: bodyweight/push-up-emom-10-min.md\nDomain: bodyweight\nSession duration: 10 min
+END:VEVENT
+BEGIN:VEVENT
+UID:2ba9b65fa69f-03@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260618
-SUMMARY:Daily Mobility Routine
-DESCRIPTION:Begin every training block with mobility to open up the body.\nCatalog path: mobility/daily-mobility-routine.md\nDomain: mobility\nSession duration: 5 min total
+SUMMARY:Suitcase Carry
+DESCRIPTION:1 mile suitcase carry. Stack with Hip Mobility as prep or cooldown.\nCatalog path: kettlebells/suitcase-carry.md\nDomain: kettlebells\nSession duration: ~20-25 min
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-02@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-04@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260619
-SUMMARY:Kettlebell Doubles 20-30 Min EMOM
-DESCRIPTION:Start week strong: practice the 30 min double KB EMOM\, aim for 8 reps per set.\nCatalog path: kettlebells/kettlebell-doubles-30-min-emom.md\nDomain: kettlebells\nSession duration: 20-30 min
+SUMMARY:The Stack: Foundation
+DESCRIPTION:Do The Stack: Foundation. Add Golf Mobility Warmup if desired.\nCatalog path: swing-speed/the-stack-foundation.md\nDomain: swing-speed\nSession duration: ~25 min
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-03@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-05@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
-SUMMARY:Push Up EMOM 10 Min
-DESCRIPTION:Push Up EMOM\; set rep goal and hit each minute. Add mobility if time allows.\nCatalog path: bodyweight/push-up-emom-10-min.md\nDomain: bodyweight\nSession duration: 10 min
+SUMMARY:Kettlebell Halos 10 Min
+DESCRIPTION:Use light to moderate bell. Add Push Up EMOM 10 Min for upper body.\nCatalog path: kettlebells/kettlebell-halos-10-min.md\nDomain: kettlebells\nSession duration: 10 min
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-04@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-06@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260621
-SUMMARY:The Stack: Foundation
-DESCRIPTION:Begin Stack Foundation session 1. Focus on intent and max effort oscillations.\nCatalog path: swing-speed/the-stack-foundation.md\nDomain: swing-speed\nSession duration: ~25 min
+SUMMARY:Kettlebell Doubles 20-30 Min EMOM
+DESCRIPTION:Repeat double KB EMOM. Try to match or progress from Day 1.\nCatalog path: kettlebells/kettlebell-doubles-30-min-emom.md\nDomain: kettlebells\nSession duration: 20-30 min
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-05@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-07@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
-SUMMARY:Suitcase Carry
-DESCRIPTION:Complete 1 mile suitcase carry challenge. Aim to minimize bell swaps.\nCatalog path: kettlebells/suitcase-carry.md\nDomain: kettlebells\nSession duration: ~20-25 min
+SUMMARY:Rest
+DESCRIPTION:Active rest: brief mobility or walk if desired.
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-06@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-08@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260623
-SUMMARY:Daily Mobility Routine
-DESCRIPTION:Mobility and light activity only. Recover from first cycle.\nCatalog path: mobility/daily-mobility-routine.md\nDomain: mobility\nSession duration: 5 min total
+SUMMARY:Push Up EMOM 10 Min
+DESCRIPTION:Focus on push-up form. Add Hip Mobility to start session.\nCatalog path: bodyweight/push-up-emom-10-min.md\nDomain: bodyweight\nSession duration: 10 min
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-07@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-09@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
-SUMMARY:Kettlebell Doubles 20-30 Min EMOM
-DESCRIPTION:KB Doubles EMOM: try to maintain 8 reps per set\; push on swings.\nCatalog path: kettlebells/kettlebell-doubles-30-min-emom.md\nDomain: kettlebells\nSession duration: 20-30 min
+SUMMARY:Suitcase Carry
+DESCRIPTION:Suitcase carry. Add Daily Mobility Routine afterwards.\nCatalog path: kettlebells/suitcase-carry.md\nDomain: kettlebells\nSession duration: ~20-25 min
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-08@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-10@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
-SUMMARY:Push Up EMOM 10 Min
-DESCRIPTION:Focus on increasing to 6 or 7 reps per round if possible.\nCatalog path: bodyweight/push-up-emom-10-min.md\nDomain: bodyweight\nSession duration: 10 min
+SUMMARY:The Stack: Foundation
+DESCRIPTION:Do The Stack session. Optionally add Kettlebell Halos 10 Min.\nCatalog path: swing-speed/the-stack-foundation.md\nDomain: swing-speed\nSession duration: ~25 min
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-09@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-11@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
-SUMMARY:The Stack: Foundation
-DESCRIPTION:Stack Foundation session 2. Maintain focus on form and intent.\nCatalog path: swing-speed/the-stack-foundation.md\nDomain: swing-speed\nSession duration: ~25 min
+SUMMARY:Kettlebell Total 30 Min
+DESCRIPTION:Single-bell circuit. Add push-ups within rounds if possible.\nCatalog path: kettlebells/kettlebell-total-30-min-single-bell.md\nDomain: kettlebells\nSession duration: 30 min
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-10@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-12@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
-SUMMARY:Suitcase Carry
-DESCRIPTION:Alternate suitcase carry and mix in short jogs.\nCatalog path: kettlebells/suitcase-carry.md\nDomain: kettlebells\nSession duration: ~20-25 min
+SUMMARY:Push Up EMOM 10 Min
+DESCRIPTION:Repeat push up EMOM. Optionally add Golf Mobility Warmup.\nCatalog path: bodyweight/push-up-emom-10-min.md\nDomain: bodyweight\nSession duration: 10 min
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-11@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-13@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
-SUMMARY:Daily Mobility Routine
-DESCRIPTION:Keep movement light and joint-focused.\nCatalog path: mobility/daily-mobility-routine.md\nDomain: mobility\nSession duration: 5 min total
+SUMMARY:Rest
+DESCRIPTION:Rest or light walk. Full recovery.
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-12@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-14@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
 SUMMARY:Kettlebell Doubles 20-30 Min EMOM
-DESCRIPTION:Push for 8-9 reps on good sets. Track progress week-over-week.\nCatalog path: kettlebells/kettlebell-doubles-30-min-emom.md\nDomain: kettlebells\nSession duration: 20-30 min
+DESCRIPTION:Third time for double KB EMOM. Challenge consistency.\nCatalog path: kettlebells/kettlebell-doubles-30-min-emom.md\nDomain: kettlebells\nSession duration: 20-30 min
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-13@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-15@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260630
-SUMMARY:Push Up EMOM 10 Min
-DESCRIPTION:Maintain 6-7 reps per round pace.\nCatalog path: bodyweight/push-up-emom-10-min.md\nDomain: bodyweight\nSession duration: 10 min
+SUMMARY:Suitcase Carry
+DESCRIPTION:Walk tall. Add Daily Mobility Routine after.\nCatalog path: kettlebells/suitcase-carry.md\nDomain: kettlebells\nSession duration: ~20-25 min
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-14@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-16@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260701
 SUMMARY:The Stack: Foundation
-DESCRIPTION:Stack: Try a heavier stick/weight for a few rounds.\nCatalog path: swing-speed/the-stack-foundation.md\nDomain: swing-speed\nSession duration: ~25 min
+DESCRIPTION:Swing speed maintenance. Add Hip Mobility session as prep.\nCatalog path: swing-speed/the-stack-foundation.md\nDomain: swing-speed\nSession duration: ~25 min
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-15@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-17@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
-SUMMARY:Suitcase Carry
-DESCRIPTION:Carry challenge: test for fewest stops in 1 mile.\nCatalog path: kettlebells/suitcase-carry.md\nDomain: kettlebells\nSession duration: ~20-25 min
+SUMMARY:Push Up EMOM 10 Min
+DESCRIPTION:Work toward 7x10 reps. Stack with Kettlebell Halos 10 Min.\nCatalog path: bodyweight/push-up-emom-10-min.md\nDomain: bodyweight\nSession duration: 10 min
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-16@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-18@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260703
-SUMMARY:Rest
-DESCRIPTION:Full rest\, only optional light mobility if desired.
+SUMMARY:Kettlebell Doubles 15 Min
+DESCRIPTION:Push for quality in double bell strength. Optionally add Golf Mobility Warmup.\nCatalog path: kettlebells/kettlebell-doubles-15-min.md\nDomain: kettlebells\nSession duration: 15 min
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-17@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-19@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
-SUMMARY:Push Up EMOM 10 Min
-DESCRIPTION:Start new week focused on crisp\, quality reps.\nCatalog path: bodyweight/push-up-emom-10-min.md\nDomain: bodyweight\nSession duration: 10 min
+SUMMARY:Rest
+DESCRIPTION:Rest or easy stretching.
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-18@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-20@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260705
-SUMMARY:Kettlebell Doubles 20-30 Min EMOM
-DESCRIPTION:Go for 9 reps if last session was consistent.\nCatalog path: kettlebells/kettlebell-doubles-30-min-emom.md\nDomain: kettlebells\nSession duration: 20-30 min
+SUMMARY:Suitcase Carry
+DESCRIPTION:Suitcase Carry Challenge. Add The Stack: Foundation session if energy is high.\nCatalog path: kettlebells/suitcase-carry.md\nDomain: kettlebells\nSession duration: ~20-25 min
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-19@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-21@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260706
-SUMMARY:The Stack: Foundation
-DESCRIPTION:Stack: focus on speed intervals and record results in app.\nCatalog path: swing-speed/the-stack-foundation.md\nDomain: swing-speed\nSession duration: ~25 min
+SUMMARY:Push Up EMOM 10 Min
+DESCRIPTION:Push rep progression if possible. Finish with Daily Mobility Routine.\nCatalog path: bodyweight/push-up-emom-10-min.md\nDomain: bodyweight\nSession duration: 10 min
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-20@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-22@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260707
-SUMMARY:Suitcase Carry
-DESCRIPTION:Try suitcase carry before dinner for extra challenge.\nCatalog path: kettlebells/suitcase-carry.md\nDomain: kettlebells\nSession duration: ~20-25 min
+SUMMARY:The Stack: Foundation
+DESCRIPTION:Swing speed session. Optionally do Kettlebell Halos 10 Min after.\nCatalog path: swing-speed/the-stack-foundation.md\nDomain: swing-speed\nSession duration: ~25 min
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-21@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-23@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20260708
-SUMMARY:Push Up EMOM 10 Min
-DESCRIPTION:Increase speed or reps if last session was easy.\nCatalog path: bodyweight/push-up-emom-10-min.md\nDomain: bodyweight\nSession duration: 10 min
+SUMMARY:Kettlebell Total 30 Min
+DESCRIPTION:Focus on clean technique for swings/presses.\nCatalog path: kettlebells/kettlebell-total-30-min-single-bell.md\nDomain: kettlebells\nSession duration: 30 min
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-22@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-24@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260709
-SUMMARY:Kettlebell 30 Min
-DESCRIPTION:Switch up with single KB conditioning circuit for variety and recovery.\nCatalog path: kettlebells/kettlebell-30-min.md\nDomain: kettlebells\nSession duration: 30 min
+SUMMARY:Rest
+DESCRIPTION:Rest or mobility work only.
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-23@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-25@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260710
-SUMMARY:The Stack: Foundation
-DESCRIPTION:Stack: Increase intent and speed on every swing.\nCatalog path: swing-speed/the-stack-foundation.md\nDomain: swing-speed\nSession duration: ~25 min
+SUMMARY:Push Up EMOM 10 Min
+DESCRIPTION:Repeat with quality. Hip Mobility for warmup.\nCatalog path: bodyweight/push-up-emom-10-min.md\nDomain: bodyweight\nSession duration: 10 min
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-24@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-26@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
-SUMMARY:Suitcase Carry
-DESCRIPTION:Maintain tall posture and even tension all the way.\nCatalog path: kettlebells/suitcase-carry.md\nDomain: kettlebells\nSession duration: ~20-25 min
+SUMMARY:Kettlebell Doubles 20-30 Min EMOM
+DESCRIPTION:Aim for your best effort on the double EMOM. Add mobility if needed.\nCatalog path: kettlebells/kettlebell-doubles-30-min-emom.md\nDomain: kettlebells\nSession duration: 20-30 min
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-25@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-27@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
-SUMMARY:Rest
-DESCRIPTION:Rest and recovery\; foam roll and gentle walking only.
+SUMMARY:Suitcase Carry
+DESCRIPTION:Really focus on grip and posture on long carries.\nCatalog path: kettlebells/suitcase-carry.md\nDomain: kettlebells\nSession duration: ~20-25 min
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-26@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-28@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260713
-SUMMARY:Push Up EMOM 10 Min
-DESCRIPTION:Hold 7 reps per set if possible\, or scale if more quality reps are needed.\nCatalog path: bodyweight/push-up-emom-10-min.md\nDomain: bodyweight\nSession duration: 10 min
+SUMMARY:Kettlebell Halos 10 Min
+DESCRIPTION:Add Push Up EMOM 10 Min if energy allows.\nCatalog path: kettlebells/kettlebell-halos-10-min.md\nDomain: kettlebells\nSession duration: 10 min
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-27@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-29@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260713
 DTEND;VALUE=DATE:20260714
-SUMMARY:Kettlebell Doubles 15 Min
-DESCRIPTION:Shorter double KB circuit for a focused strength set.\nCatalog path: kettlebells/kettlebell-doubles-15-min.md\nDomain: kettlebells\nSession duration: 15 min
+SUMMARY:Rest
+DESCRIPTION:Rest day or active mobility recovery.
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-28@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-30@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260714
 DTEND;VALUE=DATE:20260715
 SUMMARY:The Stack: Foundation
-DESCRIPTION:Last foundation session\; push for PR swings.\nCatalog path: swing-speed/the-stack-foundation.md\nDomain: swing-speed\nSession duration: ~25 min
+DESCRIPTION:Speed session. Add Golf Mobility Warmup if you wish.\nCatalog path: swing-speed/the-stack-foundation.md\nDomain: swing-speed\nSession duration: ~25 min
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-29@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-31@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
-SUMMARY:Suitcase Carry
-DESCRIPTION:Finish strong: keep rest breaks under 4\, strong grip focus.\nCatalog path: kettlebells/suitcase-carry.md\nDomain: kettlebells\nSession duration: ~20-25 min
+SUMMARY:Push Up EMOM 10 Min
+DESCRIPTION:Try hitting 7x10 or close. Stack Hip Mobility to support shoulders.\nCatalog path: bodyweight/push-up-emom-10-min.md\nDomain: bodyweight\nSession duration: 10 min
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-30@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-32@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260717
-SUMMARY:Push Up EMOM 10 Min
-DESCRIPTION:Final push up EMOM\; set new baseline for next cycle.\nCatalog path: bodyweight/push-up-emom-10-min.md\nDomain: bodyweight\nSession duration: 10 min
+SUMMARY:Suitcase Carry
+DESCRIPTION:Final week—focus on consistency and fatigue management.\nCatalog path: kettlebells/suitcase-carry.md\nDomain: kettlebells\nSession duration: ~20-25 min
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-31@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-33@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260718
-SUMMARY:Rest
-DESCRIPTION:Full day off. Reflect\, hydrate\, and sleep well.
+SUMMARY:Kettlebell Doubles 20-30 Min EMOM
+DESCRIPTION:Final big double KB EMOM push. Recover well after.\nCatalog path: kettlebells/kettlebell-doubles-30-min-emom.md\nDomain: kettlebells\nSession duration: 20-30 min
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-32@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-34@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260719
-SUMMARY:Daily Mobility Routine
-DESCRIPTION:Easy mobility and recovery session ahead of next block.\nCatalog path: mobility/daily-mobility-routine.md\nDomain: mobility\nSession duration: 5 min total
+SUMMARY:The Stack: Foundation
+DESCRIPTION:Wrap up with a speed focus and deep mobility prep.\nCatalog path: swing-speed/the-stack-foundation.md\nDomain: swing-speed\nSession duration: ~25 min
 END:VEVENT
 BEGIN:VEVENT
-UID:13400cbed43f-33@coach_zed
-DTSTAMP:20260617T115622Z
+UID:2ba9b65fa69f-35@coach_zed
+DTSTAMP:20260617T121618Z
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260720
-SUMMARY:Suitcase Carry
-DESCRIPTION:Suitcase finish: closing 1 mile carry\, test technique and grit.\nCatalog path: kettlebells/suitcase-carry.md\nDomain: kettlebells\nSession duration: ~20-25 min
+SUMMARY:Push Up EMOM 10 Min
+DESCRIPTION:Test max reps possible. Use Golf Mobility Warmup to finish strong.\nCatalog path: bodyweight/push-up-emom-10-min.md\nDomain: bodyweight\nSession duration: 10 min
 END:VEVENT
 END:VCALENDAR
