@@ -285,4 +285,60 @@ DTEND;VALUE=DATE:20260727
 SUMMARY:Suitcase Carry
 DESCRIPTION:Final suitcase carry challenge for the program. Reflect on grip and trunk endurance progress.\n# Suitcase Carry\n\n- Domain: `kettlebells`\n- Session Duration: `~20-25 min`\n- Precedence: `complementary`\n- Frequency: `2-3x/week`\n- Format: `carry`\n- Equipment: `single kettlebell`\n\n## Summary\n\nLoaded carry performed one arm at a time in a suitcase hold\, alternating sides periodically.\n\n## Work\n\n- Carry a single kettlebell for one mile.\n- Use a suitcase hold.\n- Switch arms periodically.\n- Try not to put the bell down.\n- If needed\, perform a single-arm deadlift to switch arms.\n\n## Notes\n\n- Use a kettlebell around 20-30% of body weight.\n- Keep posture tall and controlled throughout the carry.\n
 END:VEVENT
+BEGIN:VEVENT
+UID:6c0e38b85639-01@coach_zed
+DTSTAMP:20260705T094928Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:Kettlebell Doubles 20-30 Min EMOM
+DESCRIPTION:Start the week with a primary double kettlebell EMOM. Focus on consistent rep quality. Optionally pair with short mobility work later.\n# Kettlebell Doubles 20-30 Min EMOM\n\n- Domain: `kettlebells`\n- Session Duration: `20-30 min`\n- Precedence: `primary`\n- Format: `EMOM`\n- Equipment: `double kettlebells`\n\n## Summary\n\nDouble-kettlebell EMOM built around the core power and strength patterns.\n\n## Work\n\n- Swings\n- Squats\n- Cleans\n- Presses\n- Rows\n\n# Notes\n\n- Start with 12-16 kg and 6-8 reps for 20 minutes.\n- Work up to 10 swings.\n- Increase duration toward 30 minutes\, dropping reps as needed.\n- Once you can hold 10 reps for 30 minutes across the board\, repeat at a heavier weight.\n\n## Source\n\n- https://youtube.com/shorts/YVSWjN7CPFo?lc=UgxfFSvUIMg61ILclJd4AaABAg&si=L4rxxK4HUzv0h9j8\n
+END:VEVENT
+BEGIN:VEVENT
+UID:6c0e38b85639-02@coach_zed
+DTSTAMP:20260705T094928Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260707
+SUMMARY:Suitcase Carry
+DESCRIPTION:1 mile suitcase carry\, focus on posture and switching arms. Add daily mobility routine if time permits.\n# Suitcase Carry\n\n- Domain: `kettlebells`\n- Session Duration: `~20-25 min`\n- Precedence: `complementary`\n- Frequency: `2-3x/week`\n- Format: `carry`\n- Equipment: `single kettlebell`\n\n## Summary\n\nLoaded carry performed one arm at a time in a suitcase hold\, alternating sides periodically.\n\n## Work\n\n- Carry a single kettlebell for one mile.\n- Use a suitcase hold.\n- Switch arms periodically.\n- Try not to put the bell down.\n- If needed\, perform a single-arm deadlift to switch arms.\n\n## Notes\n\n- Use a kettlebell around 20-30% of body weight.\n- Keep posture tall and controlled throughout the carry.\n
+END:VEVENT
+BEGIN:VEVENT
+UID:6c0e38b85639-03@coach_zed
+DTSTAMP:20260705T094928Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:Kettlebell 30 Min
+DESCRIPTION:Primary single KB circuit with swings\, squats\, presses\, rows\, and push-ups. Emphasize quality over total volume.\n# Kettlebell 30 Min\n\n- Domain: `kettlebells`\n- Session Duration: `30 min`\n- Precedence: `primary`\n- Format: `AMRAP`\n- Equipment: `kettlebell`\n\n## Summary\n\nSingle-kettlebell conditioning circuit with swings\, squats\, presses\, rows\, and push-ups.\n\n## Work\n\n- 10 swings\n- 5 squats\, weight on one side\n- 5 shoulder presses each side\n- 5 rows each side\n- Push ups (50% max)\n\n## Notes\n\n- Perform as many quality rounds as possible in 30 minutes.\n
+END:VEVENT
+BEGIN:VEVENT
+UID:6c0e38b85639-04@coach_zed
+DTSTAMP:20260705T094928Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+SUMMARY:Push Up EMOM 10 Min
+DESCRIPTION:Push-up EMOM. Target a sustainable rep count. Do not stack with any kettlebell workout that includes push-ups.\n# Push Up EMOM 10 Min\n\n- Domain: `bodyweight`\n- Session Duration: `10 min`\n- Precedence: `complementary`\n- Frequency: `2-4x/week`\n- Format: `EMOM`\n- Equipment: `none`\n\n## Summary\n\nProgressive push-up EMOM built around a sustainable rep target that you can repeat every minute for 10 minutes.\n\n## Work\n\n- Pick a push-up number you can complete every minute on the minute for 10 minutes.\n- Example: 5 push-ups per minute for 10 minutes = 50 total push-ups.\n\n## Notes\n\n- Try to increase the rep target every few weeks.\n- Repeat this workout consistently 2-4 times per week.\n
+END:VEVENT
+BEGIN:VEVENT
+UID:6c0e38b85639-05@coach_zed
+DTSTAMP:20260705T094928Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:The Stack: Foundation
+DESCRIPTION:Swing speed development. Complete a Foundation session with diligent warmup.\n# The Stack: Foundation\n\n- Domain: `swing-speed`\n- Session Duration: `~25 min`\n- Precedence: `complementary`\n- Program: `18 sessions total\, ~6 weeks`\n- Format: `program`\n\n## Summary\n\nThe Foundation is the meat-and-potatoes speed training program. It is designed to ease a beginner into speed training and has consistently delivered gains across golfers with different levels of experience.\n\n## Work\n\n- Use The Stack app to continue the program.\n- Spend about 10 minutes on the warmup.\n- Complete 3-4 intervals of 4-8 swings at different weights.\n\n## Notes\n\n- This program is commonly repeated.\n- The full run takes approximately 6 weeks to complete.\n- The session itself is roughly 25 minutes.\n
+END:VEVENT
+BEGIN:VEVENT
+UID:6c0e38b85639-06@coach_zed
+DTSTAMP:20260705T094928Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Suitcase Carry
+DESCRIPTION:Repeat suitcase carry. Try for fewer breaks or slightly heavier weight if quality allows. Add in hip mobility as needed.\n# Suitcase Carry\n\n- Domain: `kettlebells`\n- Session Duration: `~20-25 min`\n- Precedence: `complementary`\n- Frequency: `2-3x/week`\n- Format: `carry`\n- Equipment: `single kettlebell`\n\n## Summary\n\nLoaded carry performed one arm at a time in a suitcase hold\, alternating sides periodically.\n\n## Work\n\n- Carry a single kettlebell for one mile.\n- Use a suitcase hold.\n- Switch arms periodically.\n- Try not to put the bell down.\n- If needed\, perform a single-arm deadlift to switch arms.\n\n## Notes\n\n- Use a kettlebell around 20-30% of body weight.\n- Keep posture tall and controlled throughout the carry.\n
+END:VEVENT
+BEGIN:VEVENT
+UID:6c0e38b85639-07@coach_zed
+DTSTAMP:20260705T094928Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:Daily Mobility Routine
+DESCRIPTION:Active recovery focus. Quick full-body mobility routine. Can be stacked with walking or unloaded movement if desired.\n# Daily Mobility Routine\n\n- Domain: `mobility`\n- Session Duration: `5 min total`\n- Precedence: `complementary`\n- Format: `30 secs each`\n- Equipment: `none`\n\n## Summary\n\nFull-body mobility circuit with a short hold or flow at each station.\n\n## Work\n\n- Twists\n- Arm Circles\n- Aura Farmers\n- Chiropractors\n- Body Waves\n- MacGregors\n- Side Bends\n- Lunge Reaches\n- Monk Squats\n- Cossack Squats\n\n## Notes\n\n- Move for 30 seconds at each drill.\n- Keep the total session to about 5 minutes.\n\n## Source\n\n- https://youtube.com/shorts/A39EAsO-0v0?si=msiPl3A_5wiJOwsr\n
+END:VEVENT
 END:VCALENDAR
